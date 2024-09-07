@@ -28,16 +28,16 @@
 ## Linguagens e Ferramentas
 
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="external">
-        <img src="icons/file_type_html_icon_130541.png" alt="HTML" width="40" height="40"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+        <img src="icons/file_type_html_icon_130541.png" alt="HTML" width="40" height="40" /> 
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="external">
-        <img src="icons/file_type_css_icon_130661.png" alt="CSS" width="40" height="40"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+        <img src="icons/file_type_css_icon_130661.png" alt="CSS" width="40" height="40" /> 
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="external">
-        <img src="icons/javascript_icon_130900.png" alt="JavaScript" width="40" height="40"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="icons/javascript_icon_130900.png" alt="JavaScript" width="40" height="40" /> 
     </a>
-    <a href="https://www.java.com/pt-BR/" target="_blank" rel="external">
-        <img src="icons/java_original_logo_icon_146458.png" alt="Java" width="40" height="40"> 
+    <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer">
+        <img src="icons/java_original_logo_icon_146458.png" alt="Java" width="40" height="40" /> 
     </a>
 </p>
