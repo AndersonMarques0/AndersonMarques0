@@ -34,7 +34,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="external">
         <img src="icons/file_type_css_icon_130661.png" alt="CSS" width="40" height="40"> 
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="external"
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="external">
         <img src="icons/javascript_icon_130900.png" alt="JavaScript" width="40" height="40"> 
     </a>
     <a href="https://www.java.com/pt-BR/" target="_blank" rel="external">
