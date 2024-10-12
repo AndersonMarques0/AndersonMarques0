@@ -40,4 +40,7 @@
     <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer">
         <img src="icons/java_original_logo_icon_146458.png" alt="Java" width="40" height="40" /> 
     </a>
+    <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+    <img src="icons/cpp.png" alt="cpp" width="40" height="40" />
+    </a>
 </p>
