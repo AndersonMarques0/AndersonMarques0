@@ -1,8 +1,10 @@
-## Olá! 👋
+### Olá, Meu nome é Anderson! 👋
+## Desenvolvedor back-end
+> O que mais gosto na programação são os desafios e a oportunidade de sempre continuar aprendendo.
 
-### Meu nome é Anderson e estudo Desenvolvimento Back-end.
-
-### O que mais gosto na programação são os desafios e a oportunidade de sempre continuar aprendendo.
+- estudando desenvolvimento backend node.js
+- mirando no nível B2 do CEFR em inglês
+- focado em conseguir meu primeiro trabalho como dev 
 
 <div>
     <p>
