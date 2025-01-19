@@ -1,31 +1,16 @@
-### Olá, Meu nome é Anderson! 👋
-## Desenvolvedor back-end
-> O que mais gosto na programação são os desafios e a oportunidade de sempre continuar aprendendo.
+### Backend Enthusiast 💻
+Hi there! I'm Anderson, a passionate software developer focused on backend development. Currently, I'm pursuing a degree in Systems Analysis and Development at IFSP - Bragança Paulista, where I am honing my skills in web development, databases, and system design.
 
-- estudando desenvolvimento backend node.js
-- mirando no nível B2 do CEFR em inglês
-- focado em conseguir meu primeiro trabalho como dev 
+## About me 👋
+- I study English to become fluent someday.
+- Passionate about home cooking.
+- I dream of traveling outside of Brazil one day.
+- Looking for my first web development job.
 
-<div>
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=AndersonMarques0&show_icons-true&locale-en" alt="AndersonMarques0" />
-    </p>
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndersonMarques0&show_icons=true&locale=en&layout=compact"  alt="AndersonMarques0"/>
-    </p>
-    <br />
-</div>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+## What I'm currently learning 📖
+- JavaScript and TypeScript.
+- Node.js.
+- Databases.
 
 ## Linguagens e Ferramentas
 
