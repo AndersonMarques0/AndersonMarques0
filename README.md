@@ -24,6 +24,21 @@ Hi there! I'm Anderson, a passionate software developer focused on backend devel
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="icons/javascript_icon_130900.png" alt="JavaScript" width="40" height="40" /> 
     </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="icons/typescript-icon.256x256.png" alt="JavaScript" width="40" height="40" /> 
+    </a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+        <img src="icons/php.256x130.png" alt="JavaScript" width="60" height="40" /> 
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="icons/git.256x256.png" alt="JavaScript" width="40" height="40" /> 
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="icons/mysql-original-wordmark.256x133.png" alt="JavaScript" width="60" height="40" /> 
+    </a>
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+        <img src="icons/icons8-nodejs-48.png" width="40" height="40" />
+    </a>
     <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="icons/cpp.png" alt="cpp" width="40" height="40" />
     </a>
